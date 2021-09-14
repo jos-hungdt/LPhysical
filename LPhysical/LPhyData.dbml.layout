@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.625" name="LPhyData">
+  <DataContextMoniker Name="/LPhyDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="faa649d0-d68f-41d4-8e74-84ce8eaff4e6" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LPhyDataDataContext/DERAL10" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5bf323e-e7ed-4a49-bc9e-dc83c254c757" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8fc04191-19c9-4b3b-86e2-8eeedca8d177" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/LPhyDataDataContext/DERAL11" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e0bf4b92-d376-4a3d-83e6-ae78fec9f2e6" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="80326aa8-98b6-4ccd-a36d-ba7f29e88db2" absoluteBounds="0.75, 3.75, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/LPhyDataDataContext/DERAL12" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2608dffb-0768-48d3-89d1-c7f3559f4ff2" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="10b0063c-5d2d-46dc-9b93-9360accea166" absoluteBounds="3.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LPhyDataDataContext/ELEVEN" />
+      <nestedChildShapes>
+        <elementListCompartment Id="eb045705-8493-4799-be18-39edfb1ac144" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5eb653b5-2dd8-419c-8073-de2722dc3dfb" absoluteBounds="6.75, 0.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LPhyDataDataContext/TENBASE" />
+      <nestedChildShapes>
+        <elementListCompartment Id="72b33068-8caf-40f1-a218-169d6acca4a9" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="40df12bc-a3c2-428c-b312-d8e9bdb0cb98" absoluteBounds="0.75, 6.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LPhyDataDataContext/TWENTH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cf25c136-f734-464a-af0f-3c132b0c4ecc" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QUESTIONModelStoreContainer" CdmEntityContainer="QUESTIONEntities">
+    <EntitySetMapping Name="DERAL10">
+      <EntityTypeMapping TypeName="QUESTIONModel.DERAL10">
+        <MappingFragment StoreEntitySet="DERAL10">
+          <ScalarProperty Name="QID" ColumnName="QID" />
+          <ScalarProperty Name="CONTENT" ColumnName="CONTENT" />
+          <ScalarProperty Name="CTLDUNG" ColumnName="CTLDUNG" />
+          <ScalarProperty Name="CTL1" ColumnName="CTL1" />
+          <ScalarProperty Name="CTL2" ColumnName="CTL2" />
+          <ScalarProperty Name="CTL3" ColumnName="CTL3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DERAL11">
+      <EntityTypeMapping TypeName="QUESTIONModel.DERAL11">
+        <MappingFragment StoreEntitySet="DERAL11">
+          <ScalarProperty Name="QID" ColumnName="QID" />
+          <ScalarProperty Name="CONTENT" ColumnName="CONTENT" />
+          <ScalarProperty Name="CTLDUNG" ColumnName="CTLDUNG" />
+          <ScalarProperty Name="CTL1" ColumnName="CTL1" />
+          <ScalarProperty Name="CTL2" ColumnName="CTL2" />
+          <ScalarProperty Name="CTL3" ColumnName="CTL3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DERAL12">
+      <EntityTypeMapping TypeName="QUESTIONModel.DERAL12">
+        <MappingFragment StoreEntitySet="DERAL12">
+          <ScalarProperty Name="QID" ColumnName="QID" />
+          <ScalarProperty Name="CONTENT" ColumnName="CONTENT" />
+          <ScalarProperty Name="CTLDUNG" ColumnName="CTLDUNG" />
+          <ScalarProperty Name="CTL1" ColumnName="CTL1" />
+          <ScalarProperty Name="CTL2" ColumnName="CTL2" />
+          <ScalarProperty Name="CTL3" ColumnName="CTL3" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

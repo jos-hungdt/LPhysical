@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QUESTIONModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DERAL10">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CONTENT" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CTLDUNG" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CTL1" Type="nvarchar" MaxLength="200" />
+    <Property Name="CTL2" Type="nvarchar" MaxLength="200" />
+    <Property Name="CTL3" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="DERAL11">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CONTENT" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CTLDUNG" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CTL1" Type="nvarchar" MaxLength="200" />
+    <Property Name="CTL2" Type="nvarchar" MaxLength="200" />
+    <Property Name="CTL3" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="DERAL12">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CONTENT" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CTLDUNG" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="CTL1" Type="nvarchar" MaxLength="200" />
+    <Property Name="CTL2" Type="nvarchar" MaxLength="200" />
+    <Property Name="CTL3" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityContainer Name="QUESTIONModelStoreContainer">
+    <EntitySet Name="DERAL10" EntityType="Self.DERAL10" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DERAL11" EntityType="Self.DERAL11" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DERAL12" EntityType="Self.DERAL12" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

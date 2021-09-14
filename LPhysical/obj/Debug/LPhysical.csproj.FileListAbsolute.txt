@@ -1,0 +1,101 @@
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\bin\Debug\LPhysical.exe.config
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\bin\Debug\LPhysical.exe
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\bin\Debug\LPhysical.pdb
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Properties.Resources.resources
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.GenerateResource.Cache
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.exe
+c:\users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.pdb
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.BeginPage.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Ktcoban.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.KT12.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Ktmmot.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Thaukinh.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Luyende.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.ChonThi.resources
+C:\Users\hungd\Documents\Visual Studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.FmThi.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\bin\Debug\EntityFramework.dll
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\bin\Debug\EntityFramework.xml
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.csprojResolveAssemblyReference.cache
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.FmConlac.resources
+C:\Users\hungd\documents\visual studio 2013\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Navi.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\bin\Debug\LPhysical.exe.config
+C:\Users\T440S\Downloads\LPhysical\LPhysical\bin\Debug\LPhysical.exe
+C:\Users\T440S\Downloads\LPhysical\LPhysical\bin\Debug\LPhysical.pdb
+C:\Users\T440S\Downloads\LPhysical\LPhysical\bin\Debug\EntityFramework.dll
+C:\Users\T440S\Downloads\LPhysical\LPhysical\bin\Debug\EntityFramework.xml
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.AssemblyReference.cache
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.BeginPage.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.ChonThi.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.FmConlac.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.FmThi.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.KT12.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.Ktcoban.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.luyende.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.Navi.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.Thaukinh.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.Ktmmot.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.Properties.Resources.resources
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.GenerateResource.cache
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.CoreCompileInputs.cache
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.CopyComplete
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.exe
+C:\Users\T440S\Downloads\LPhysical\LPhysical\obj\Debug\LPhysical.pdb
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\LPhysical.exe.config
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\LPhysical.exe
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\LPhysical.pdb
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\EntityFramework.dll
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\EntityFramework.xml
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.AssemblyReference.cache
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.BeginPage.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.ChonThi.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.FmConlac.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.FmThi.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.KT12.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Ktcoban.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.luyende.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Navi.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Thaukinh.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Ktmmot.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.Properties.Resources.resources
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.GenerateResource.cache
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.CoreCompileInputs.cache
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.csproj.CopyComplete
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.exe
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\obj\Debug\LPhysical.pdb
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backbtn10.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backbtnlop11.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backg2.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backgbtn12.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backgol.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backgqh.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\background.JPG
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\backgtkt.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\btnback1.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\btnback2.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\btnback3.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\btnback4.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\FB_IMG_15034101154100157.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\FB_IMG_15045815593279788.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\FB_IMG_15045816132041205.jpg
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\icon.ico
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ImageA\josdth_c.png
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop10\bai1lop11.html
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop10\bai2lop11.html
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop11\bai1lop11.html
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop11\bai2lop11.html
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop12\bai1lop12.html
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop12\bai2lop12.html
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop12\bai2lop12_files\colorschememapping.xml
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop12\bai2lop12_files\filelist.xml
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\ktcblop12\bai2lop12_files\themedata.thmx
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende10\bai-tap-trac-nghiem-chuong-chat-khi-vat-ly-10-nang-cao.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende10\bai-tap-vat-ly-10-chuyen-dong-thang-bien-doi-deu.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende10\bai-tap-vat-ly-lop-10-chuong-1.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende10\bai-tap-vat-ly10-chuong-7-chat-khi-chat-long-su-chuyen-the.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende11\bai-tap-trac-nghiem-vat-ly-lop-11-dien-truong-va-cuong-do-dien-truong-duong-suc-dien.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende11\bai-tap-trac-nghiem-vat-ly-lop-11-dong-dien-trong-cac-moi-truong.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende11\cac-dang-bai-tap-phan-thau-kinh.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende11\on-tap-kien-thuc-vat-ly-11-chuong-5-cam-ung-dien-tu.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende12\115-cau-hoi-trac-nghiem-song-co.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende12\847-cau-hoi-trac-nghiem-ly-thuyet-vat-ly-lop-12-theo-tung-chuong.pdf
+C:\Users\T440S\Documents\Visual Studio 2019\Projects\LPhysical\LPhysical\bin\Debug\AppFile\Luyende12\bai-tap-vat-ly-lop-12-chuong-1-dao-dong-co.pdf

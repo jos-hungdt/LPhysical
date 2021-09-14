@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6D34E759-C462-4BC7-B366-CB079B984BB8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LPhysical</RootNamespace>
+    <AssemblyName>LPhysical</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BeginPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BeginPage.Designer.cs">
+      <DependentUpon>BeginPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChonThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChonThi.Designer.cs">
+      <DependentUpon>ChonThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmConlac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmConlac.Designer.cs">
+      <DependentUpon>FmConlac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FmThi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmThi.Designer.cs">
+      <DependentUpon>FmThi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KT12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KT12.Designer.cs">
+      <DependentUpon>KT12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ktcoban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ktcoban.Designer.cs">
+      <DependentUpon>Ktcoban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ktmmot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ktmmot.Designer.cs">
+      <DependentUpon>Ktmmot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LPhyData.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LPhyData.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="luyende.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="luyende.Designer.cs">
+      <DependentUpon>luyende.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Navi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Navi.Designer.cs">
+      <DependentUpon>Navi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Thaukinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Thaukinh.Designer.cs">
+      <DependentUpon>Thaukinh.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BeginPage.resx">
+      <DependentUpon>BeginPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChonThi.resx">
+      <DependentUpon>ChonThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmConlac.resx">
+      <DependentUpon>FmConlac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FmThi.resx">
+      <DependentUpon>FmThi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KT12.resx">
+      <DependentUpon>KT12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ktcoban.resx">
+      <DependentUpon>Ktcoban.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AppFile\ktcblop12\bai2lop12_files\themedata.thmx">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende10\bai-tap-trac-nghiem-chuong-chat-khi-vat-ly-10-nang-cao.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende10\bai-tap-vat-ly-10-chuyen-dong-thang-bien-doi-deu.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende10\bai-tap-vat-ly-lop-10-chuong-1.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende10\bai-tap-vat-ly10-chuong-7-chat-khi-chat-long-su-chuyen-the.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende11\bai-tap-trac-nghiem-vat-ly-lop-11-dien-truong-va-cuong-do-dien-truong-duong-suc-dien.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende11\bai-tap-trac-nghiem-vat-ly-lop-11-dong-dien-trong-cac-moi-truong.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende11\cac-dang-bai-tap-phan-thau-kinh.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende11\on-tap-kien-thuc-vat-ly-11-chuong-5-cam-ung-dien-tu.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende12\115-cau-hoi-trac-nghiem-song-co.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende12\847-cau-hoi-trac-nghiem-ly-thuyet-vat-ly-lop-12-theo-tung-chuong.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="AppFile\Luyende12\bai-tap-vat-ly-lop-12-chuong-1-dao-dong-co.pdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="LPhyData.dbml.layout">
+      <DependentUpon>LPhyData.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="luyende.resx">
+      <DependentUpon>luyende.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Navi.resx">
+      <DependentUpon>Navi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Thaukinh.resx">
+      <DependentUpon>Thaukinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ktmmot.resx">
+      <DependentUpon>Ktmmot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="LPhyData.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LPhyData.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\back.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="AppFile\ImageA\backbtn10.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\backbtnlop11.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\backg2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\backgbtn12.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\backgol.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\backgqh.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\background.JPG">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\backgtkt.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\btnback1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\btnback2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\btnback3.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\btnback4.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\FB_IMG_15034101154100157.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\FB_IMG_15045815593279788.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\FB_IMG_15045816132041205.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\icon.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ImageA\josdth_c.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop10\bai1lop11.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop10\bai2lop11.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop11\bai1lop11.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop11\bai2lop11.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop12\bai1lop12.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop12\bai2lop12.html">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop12\bai2lop12_files\colorschememapping.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AppFile\ktcblop12\bai2lop12_files\filelist.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

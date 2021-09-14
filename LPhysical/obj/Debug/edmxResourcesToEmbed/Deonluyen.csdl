@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QUESTIONModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="DERAL10">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CONTENT" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CTLDUNG" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CTL1" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CTL2" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CTL3" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="DERAL11">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CONTENT" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CTLDUNG" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CTL1" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CTL2" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CTL3" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="DERAL12">
+    <Key>
+      <PropertyRef Name="QID" />
+    </Key>
+    <Property Name="QID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CONTENT" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CTLDUNG" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CTL1" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CTL2" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="CTL3" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityContainer Name="QUESTIONEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="DERAL10" EntityType="Self.DERAL10" />
+    <EntitySet Name="DERAL11" EntityType="Self.DERAL11" />
+    <EntitySet Name="DERAL12" EntityType="Self.DERAL12" />
+  </EntityContainer>
+</Schema>
